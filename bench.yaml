@@ -1,0 +1,26 @@
+source:
+  url: https://github.com/elvtide01/7SegmentDice
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf26b
+  slot: tt_um_elvtide01_7SegmentDice
+  project: 7SegmentDice
+  size: 1x1
+  kind: digital (Verilog)
+  commit: 90688d18e7e472402a725608bf216537c767cbe0
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf26b/tt_um_elvtide01_7SegmentDice
+  branch: tapeout/tinytapeout/ttgf26b/tt_um_elvtide01_7SegmentDice
+  page: https://app.tinytapeout.com/shuttles/ttgf26b
+generated: '2026-10-17T23:32:09Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf26b/tt_um_elvtide01_7SegmentDice
+- upstream/main
